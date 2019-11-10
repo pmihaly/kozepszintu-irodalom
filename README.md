@@ -1,0 +1,1 @@
+{% for page in site.pages %} [{{ page.title }}](/közepszintu-irodalom/{{ page.url }}) {% endfor %}
